@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Pokemon</string>
+    <string name="findPokemon">Znajdz Pokemona</string>
+    <string name="pokemon">Nie wybrano żadnego żywiołu</string>
+    <string-array name="options">
+        <item>Ziemne</item>
+        <item>Ogniste</item>
+        <item>Wodny</item>
+    </string-array>
+</resources>
